@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Muthuvarshini-22
 - 👀 I’m interested in full stack development.
 - 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on team projects and internships related to full stack development.
+- 💞️ I’m looking to collaborate on team projects and internships to expand my skills.
 - 📫 How to reach :
-    LINKEDIN -  https://www.linkedin.com/in/muthuvarshini-s-679901236/
-    MAIL - varshinisenthilarumugam@gmail.com
+    LINKEDIN [https://www.linkedin.com/in/muthuvarshini-s-679901236]/
+    MAIL [varshinisenthilarumugam@gmail.com]
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: The more cups of coffee I have, the faster my code compiles! ☕
 
