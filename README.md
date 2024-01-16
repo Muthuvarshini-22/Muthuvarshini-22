@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muthuvarshini-22
 - 👀 I’m interested in full stack development.
-- 🌱 I’m currently learning ReactJS.
+- 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on team projects and internships to expand my skills.
 - 📫 How to reach :
     LINKEDIN [https://www.linkedin.com/in/muthuvarshini-s-679901236]/
